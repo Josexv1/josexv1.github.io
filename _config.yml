@@ -16,8 +16,8 @@ animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:          http://diffusive.blog
-# baseurl:           
+url:          http://diffusive.blog/
+baseurl:
 
 # Gems used
 gems:
@@ -27,6 +27,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-seo-tag
+  - jekyll-twitter-plugin
 
 # Archives configuration
 # https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md
@@ -56,7 +57,7 @@ author:
   linkedin:
   instagram: Josexv1
   tumblr:
-  reddti: mtbz
+  reddit: mtbz
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    "https://plus.google.com/u/0/+JoseCastilloStronghold"
 
