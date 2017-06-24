@@ -20,7 +20,7 @@ url:          http://diffusive.blog
 # baseurl:           
 
 # Gems used
-plugins:
+gems:
   - jekyll-feed
   - jekyll-archives
   - jekyll-paginate
