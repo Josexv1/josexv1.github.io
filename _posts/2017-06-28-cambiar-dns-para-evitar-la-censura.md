@@ -35,9 +35,10 @@ En la barra de tareas, hacer click derecho en el icono de WIFI o de Ethernet, y 
 En el centro de redes, hacer click izquierdo en el nombre de tu red, normalmente Red Local, o el nombre de tu WIFI.  
 ![redes](https://i.imgur.com/DhYurTR.png "Redes")
 
-Al abrirse una ventana pequena donde se mostrara varia informacion sobre tu conexion, hacer click izquierdo en la parte inferior donde dice **  Propiedades**.
+Al abrirse una ventana pequena donde se mostrara varia informacion sobre tu conexion, hacer click izquierdo en la parte inferior donde dice **Propiedades**.
 ![redes](https://i.imgur.com/WzTthmu.png "Redes")  
 Luego hacer click en **Protocolo de Internet version 4 (TCP/IPv4)** y posteriormente hacer click en **Propiedades**  
+
 ![redes](https://i.imgur.com/BR5yLIM.png "Redes")  
 Se abrira una ventana donde nos dejara elegir nuestro IP y nuestro DNS  
 ![redes](https://i.imgur.com/fFZcFqj.png "Redes")  
