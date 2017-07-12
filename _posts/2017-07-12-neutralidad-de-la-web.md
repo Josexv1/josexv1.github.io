@@ -26,9 +26,7 @@ El Internet se ha mantenido precisamente por la neutralidad. Lo que lo hace vibr
 
 Paginas web, usuarios y comunidades online, junto a miles de organizaciones como Google, Mozilla, Reddit, Medium, Amazon, Netflix, Github y otros se unirán para alarmar sobre el ataque de la FCC a la neutralidad de la red, Vamos a proveer herramientas para que sea súper fácil para tus seguidores tomar acciones y ayudar la causa. Desde el apago de SOPA a ralentizar sitios web, hemos mostrado una y otra vez que cuando el Internet se une podemos detener la corrupción y la censura, **AHORA** lo haremos de nuevo.
 
-# Para los sitios web
-
-### Modales
+# Uso de Modales
 
 Desde hoy 12 de Julio, todos los sitios prominentes mostraran una alerta en la pagina principal de sus sitios web, ver el ejemplo de reddit.com.
 
@@ -38,11 +36,11 @@ Para usarlos solo necesitas embedir un pedazo de javascript a tu sitio web, [ver
 
 Y no te preocupes, ninguno de ellos _realmente_ bloqueara o hará lento tu sitio web, pero les dejara enviar comentarios a la FCC y al congreso sin tener que dejar tu plataforma, se mostrara una sola vez y dejara que los usuarios entren a tu web fácilmente.
 
-# Anuncios
+# Uso de Anuncios
 
 Si tienes un blog puedes usar uno de estos [banners](https://drive.google.com/drive/folders/0B7iKho2OIeVzdTk4WTdCdGsxVlk) para que tus usuarios se den cuenta sobre la neutralidad
 
-# APPS
+# Uso de APPS
 
 Si tienes una APP móvil, para hacer saber a tus usuarios que las ISP quieren controlar lo que ellos ven y hacen, enviales una notificación push.
 
@@ -51,5 +49,14 @@ Si tienes una APP móvil, para hacer saber a tus usuarios que las ISP quieren co
 Si usas las redes sociales, te sugerimos notificar a todos tus amigos y/o seguidores para que sepan sobre los planes de la FCC de controlar el Internet. Para tener material gráfico haz [click acá](https://drive.google.com/drive/folders/0B7iKho2OIeVzREZWSkRaenZwMFk)
 
 Puedes cambiar tu avatar o foto de perfil con una de estas [imágenes](https://drive.google.com/drive/folders/0B7iKho2OIeVzREZWSkRaenZwMFk)
+
+Muchos sitios web han expresado sus mensajes como lo es el popular sitio pornhub, imgur y otros mas.
+
+<figure class="third">
+	<a href="https://i.imgur.com/DGQyeKF.png"><img src="https://i.imgur.com/DGQyeKF.png"></a>
+	<a href="https://i.imgur.com/6wGlWne.png"><img src="https://i.imgur.com/6wGlWne.png"></a>
+	<a href="https://i.imgur.com/eonHkst.png"><img src="https://i.imgur.com/eonHkst.png"></a>
+	<a href="https://i.imgur.com/O7dFUTH.jpg"><img src="https://i.imgur.com/O7dFUTH.jpg"></a>
+</figure>
 
 # Aprende mas en esta [web](https://www.battleforthenet.com/) (ingles)
