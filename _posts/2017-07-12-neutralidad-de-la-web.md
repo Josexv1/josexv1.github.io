@@ -6,7 +6,7 @@ headline:
 modified: 2017-07-12
 category: personal
 tags: [privacy, mozilla, censorship, neutrality, net neutrality]
-imagefeature: 
+imagefeature: posts/diffusive_blocked.png
 comments: true
 featured: false
 published: true
