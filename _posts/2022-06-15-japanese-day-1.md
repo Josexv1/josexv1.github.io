@@ -1,7 +1,7 @@
 ---
 title: Day 1 - 100 days of Japanese
 author: Jose Suarez
-date: 2022-06-15 11:00:00
+date: 2022-06-15 11:00 +0200
 categories: [Japanese, 100Days]
 tags: [Japanese, streak, 100days]
 ---
