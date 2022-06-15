@@ -100,9 +100,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo:  Josexv1/josexv1.github.io           # <gh-username>/<repo>
-    repo_id: 
-    category:
-    category_id:
+    repo_id: R_kgDOHgIVyA
+    category: General
+    category_id: DIC_kwDOHgIVyM4CPqvP
     mapping:          # optional, default to 'pathname'
     input_position:   # optional, default to 'bottom'
     lang:             # optional, default to the value of `site.lang`
