@@ -11,14 +11,14 @@ tags: [Japanese, streak, 100days]
 This blog is part of my 100 days of Japanese Challenge.
 
 
-# Resources used
+## Resources used
 https://www.mykikitori.com/lesson-1
 https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/#lesson-0
 Anki reviews.
 https://easyjapanese.net/ TODAI App.
 
 
-# Learnt
+## Learnt
 
 * Genki Lesson 1.
 
@@ -57,11 +57,11 @@ To properly explain this particle we will need a whole book, because it's kind o
 * １８時です。
 
 
-# Practice Genki
+## Practice Genki
 [Up to Majors.](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/lesson-1/vocab-5/)
 
 
-# Kanji cards.
+## Kanji cards.
 
 Today
 Studied 59 cards in 18.63 minutes today (18.95s/card)
@@ -83,19 +83,19 @@ Some of the harder Kanji were.
 * 電話番号　「でんわばんごう」―　　Phone number, I remembered the first kanji 電 because it means electricity, and many electronic things has this kanji, like 携帯電話 _mobile phone_, in this case 電話 was a mix of electricity (電) and talk, speech (話), meaning cell phone, or just phone, I was dumb enough not to recognize the kanji 番号 that was at the TOP of the book, meaning number. But oh well, now I know.
 * 時計　「とけい」―　Clock
 
-# TODAI APP daily read
+## TODAI APP daily read
 
 https://easyjapanese.net/detail/4631b2e43fa985657c5379086ca12663?hl=en-US
 
-# mikikitori listen of the day
+## mikikitori listen of the day
 
 https://www.mykikitori.com/lesson-1
 Actually this was really easy to understand as it's more or less 3 phrases that even a deaf child can understand. So I'll probably change this resource for another soon.
 
-# New objectives.
+## New objectives.
 I found the numbers extremely hard to remember, even thought I tried over and over, so my next mission is to try and do some exercises on numbers, I will try to do it today.
 
-# Random thoughts.
+## Random thoughts.
 Since I already know a little bit of Japanese, the first lesson was easy, so I expect it to be easy for the next 2 or 3 lessons, then the real grind begins. Today I'll spend almost all my afternoon on bike and will try to find a good spot to read a few news in TODAI to practice my reading with Furigana.
 
 I thought about adding the kanji in the news to a Anki deck, but since I don't know the real utility of these Kanji in the future I can't be sure that will be helpful.
