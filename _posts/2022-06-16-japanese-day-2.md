@@ -2,8 +2,8 @@
 title: Day 2 - 100 days of Japanese
 author: Jose Suarez
 date: '2022-06-16 11:05:45 +0200'
-categories: [Japanese, 100Days]
-tags: [Japanese, streak, 100days]
+categories: [Japanese, 100 Days]
+tags: [Japanese, streak, 100 days]
 math: true
 ---
 
