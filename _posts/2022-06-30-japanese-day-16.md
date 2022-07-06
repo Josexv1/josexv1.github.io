@@ -6,9 +6,6 @@ categories: [Japanese, 100 Days]
 tags: [Japanese, streak, 100 days]
 ---
 
-# 100 Days of Japanese Challenge
-This blog is part of my 100 days of Japanese Challenge.
-
 おはよう！今日はGENKIの第六課を勉強します！
 
 次のようなことを勉強していきます：
@@ -20,7 +17,7 @@ This blog is part of my 100 days of Japanese Challenge.
 * Explaining a reason
 * Offering assistance
 
-## て！
+# て！
 ごだん
 
 | う→って  | む→んで                                                                                                                                  |
@@ -65,7 +62,7 @@ _Copy from Hatsune Miku Song KEKW_
 * 蹴る　蹴って　Ｋｉｃｋ
 * 滑る　滑って　Ｓｌｉｄｅ
 
-Irregulars.
+## Irregulars.
 
 * 来る　→　来て　Come
 * する　→　して　Do

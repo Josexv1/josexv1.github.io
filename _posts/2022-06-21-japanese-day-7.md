@@ -6,9 +6,6 @@ categories: [Japanese, 100 Days]
 tags: [Japanese, streak, 100 days]
 ---
 
-# 100 Days of Japanese Challenge
-This blog is part of my 100 days of Japanese Challenge.
-
 Helloooo,　this blog post will be full of examples of diferent kind, of the past 6 days.
 始めましょう！
 
@@ -52,7 +49,7 @@ The practice is in the same order as the book.
 〇　妹は何歳ですか。→　*16歳です。*
 
 
-### **日本語の学生です。！！**
+## **日本語の学生です。！！**
 
 〇　僕の先生。
 
@@ -73,7 +70,7 @@ The practice is in the same order as the book.
 
 〇　高校の先生。
 
-### 電話番号。　
+## 電話番号。　
 
 〇　電話番後ですか？→　*+XX 556-90-80-70 KEKW*
 
@@ -113,7 +110,7 @@ The practice is in the same order as the book.
 26. 八万。「はちまん」８００００
 27. 九万。９００００
 
-#### この番号をお読みください。
+### この番号をお読みください。
 1. ３４→　三十四。
 2. ６７→　六十七。
 3. ８３→　八十三。
@@ -134,7 +131,7 @@ The practice is in the same order as the book.
 > Google reads the 92340 as: *きゅうまんにせんさんびゃくよんじゅう* and the Kanji as :　きゅうじゅうまんにせんさんびゃくよんじゅう。
 > 変じゃないですか？KEKW。
 
-### いくらですか？
+## いくらですか？
 
 1. ペンはいくらですか？→　八十円です。
 2. ノートは四百五十円です。

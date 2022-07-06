@@ -5,25 +5,20 @@ date: '2022-06-17 11:05:45 +0200'
 categories: [Japanese, 100 Days]
 tags: [Japanese, streak, 100 days]
 ---
+# Learnt
 
-# 100 Days of Japanese.
-
-This blog is part of my 100 days of Japanese Challenge.
-
-## Learnt
-
-### Particle を
+## Particle を
 Describes the object that's affected.
 
 * コーヒー _`を`_ 飲みます。「 i dink coffee 」 the coffee is affected here.
 
-### Particle で
+## Particle で
 Describe place of action, where an event occurred.
 
 * 図書館 _`で`_ 本を読んでいます。
 * うち _`で`_ 昼ご飯を食べます。
 
-### Particle に movement.
+## Particle に movement.
 Describes the goal towards things move., or the time an event takes place.
 
 * 今日学校 _`に`_ 行きません。
@@ -34,7 +29,7 @@ Describes the goal towards things move., or the time an event takes place.
 * 日曜日 _`に`_ 京都に行きます。
 
 
-## TODAI Article translation
+# TODAI Article translation
 With a dictionary, try to make sense of the article.
 
 > Translate this: https://easyjapanese.net/detail/4631b2e43fa985657c5379086caacbb6?hl=en-US.

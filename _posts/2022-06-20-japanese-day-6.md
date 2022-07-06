@@ -7,14 +7,11 @@ tags: [Japanese, streak, 100 days]
 math: true
 ---
 
-# 100 Days of Japanese Challenge
-This blog is part of my 100 days of Japanese Challenge.
-
 Hellooo, today marks the end of the lesson 3, wich was fairly easy because i knew most of the content, so yeah, besides the huge ammount of words to learn i did it with ease. Let's keep going 始めましょう～
 
 Starting from now on, i'll use more and more Japanese and less romaji, so my blog posts will be way more into the language i'm learning.
 
-## Genki 第4課 
+# Genki 第4課 
 
 新のデート。
 １１０。
@@ -51,7 +48,7 @@ $$
 〇　時間がありますか？。
 > Do you have time?
 
-### あります。When you want to say and event took place?
+# あります。When you want to say and event took place?
 
 〇　火曜日にテストがあります。
 > There will be an exam on tuesday.
@@ -62,7 +59,7 @@ $$
 > Something to keep in mind, as tomorrow and morning is uses the same expression in Spanish, Manaña, and mañana, 明日　and　朝, can be confusing, 明日 means the following day, and 朝, is the part of the day between 00:00 and 12:00. The morning.
 {: prompt-info}
 
-### The living uses います。
+# The living uses います。
 〇　あそこに留学生がいます。
 > There's an international student.
 
@@ -70,7 +67,7 @@ $$
 > I have a Japanese friend.
 > This sounds really weird to say KEKW, as the rough translation is `a japanese friend exists`. or `The Japanese Friend exist`
 
-### The places uses the following formula.
+# The places uses the following formula.
 
 $$ Place\;(に)
 \begin{Bmatrix}

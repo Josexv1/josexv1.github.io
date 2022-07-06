@@ -6,12 +6,9 @@ categories: [Japanese, 100 Days]
 tags: [Japanese, streak, 100 days]
 ---
 
-# 100 Days of Japanese Challenge
-This blog is part of my 100 days of Japanese Challenge.
+# Learnt
 
-## Learnt
-
-〇 Time
+## Time
 
 に is used for days, like Sunday, Monday... also is used for numerical time like, 2pm, 11:45AM, etc, and the months like September, January, etc...
 
@@ -28,14 +25,14 @@ This blog is part of my 100 days of Japanese Challenge.
 * 武さんはあまり勉強しません。
 * 私はぜんぜんがテレビを見ます。
 
-### Another use of は
+## Another use of は
 You can use it as a question.
 
 * 晩ご飯は。「　what about dinner?　」
 * 食べません ww「　wont eat kekw　」
 
 
-## TODAI APP Daily New
+# TODAI APP Daily New
 Read: 
 
 > https://easyjapanese.net/detail/4631b2e43fa985657c5379086caf3485?hl=en-US

@@ -6,9 +6,6 @@ categories: [Japanese, 100 Days]
 tags: [Japanese, streak, 100 days]
 ---
 
-# 100 Days of Japanese Challenge
-This blog is part of my 100 days of Japanese Challenge.
-
 # Final studying method?
 I think i managed to keep in check what i can do to keep learning without affecting my ability to update the blog.
 
@@ -60,7 +57,7 @@ Cont from day 8
 * 
 * B.　うーん、モスバーガーが好きですよ。
 
-### Likes and Dislikes
+# Likes and Dislikes
 なadjetives
 
 * XはYが好きです。
@@ -87,7 +84,7 @@ Cont from day 8
 * B.　嫌いな食べ物がありますか。
 * A.　あまりないです。
 
-Let's ましょう。。。
+## Let's ましょう。。。
 
 ましょう　Let's
 ましょうか　Shall we?
@@ -107,7 +104,7 @@ Let's ましょう。。。
 * え？！
 * あ！何でもないです。行きましょう。KEKW。
 
-### Counters.
+## Counters.
 
 １枚
 ２枚
@@ -124,7 +121,7 @@ Let's ましょう。。。
 * あ、ナフキンもお願いします
 * あと、なふきんも２まいください
 
-### Apps
+# Apps
 
 * Tango N5 on Anki
 * Duolingo 2x train

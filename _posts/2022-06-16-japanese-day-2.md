@@ -7,13 +7,6 @@ tags: [Japanese, streak, 100 days]
 math: true
 ---
 
-# 100 Days of Japanese Challenge
-This blog is part of my 100 days of Japanese Challenge, Day 2.
-
-
-## Resources used.
-
-
 ## Learnt
 * Genki Lesson 2
 

@@ -6,16 +6,13 @@ categories: [Japanese, 100 Days]
 tags: [Japanese, streak, 100 days, genki, adjetives, past tense, likes, dislikes, lets, number counters]
 ---
 
-# 100 Days of Japanese Challenge
-This blog is part of my 100 days of Japanese Challenge.
-
 おはよう～
 
 勉強うはどうですか？良いのか悪いのか？僕は毎日たくさんを勉強していますよ、毎の朝が二～三時間を。。。
 
 練習は始めましょう！
 
-## 第五課です。
+# 第五課です。
 ①　いー副詞　「ふくし」
 
 ②　なー副詞
@@ -25,7 +22,7 @@ Present → **Negative**
 * 元気`（です）`→　元気`じゃない`
   1. add negative of です
 
-### 会話。「かいわ」
+## 会話。「かいわ」
 _I'm going to use 「」to write hiragana for the Kanji i don't remember very well. and `test` to translate some new words that i don't know._
 
 * 卵は美味しい「たまごはおいしい」

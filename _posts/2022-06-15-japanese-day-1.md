@@ -6,11 +6,6 @@ categories: [Japanese, 100 Days]
 tags: [Japanese, streak, 100 days]
 ---
 
-# 100 Days of Japanese.
-
-This blog is part of my 100 days of Japanese Challenge.
-
-
 ## Resources used
 https://www.mykikitori.com/lesson-1
 https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/#lesson-0
