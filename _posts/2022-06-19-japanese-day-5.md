@@ -21,7 +21,7 @@ Continuing with lesson 3.
 
 Basically this word can be translated as, `would you`, ～ませんか。As you can see at the end there is a `か` so it's a question.
 
-〇　昼ご飯を食べませんか。
+〇　<ruby>昼<rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べませんか。
 > `Woulnd't you have dinner with me? ('ω')`　Yep.
 
 〇　テニスをしませんか。
@@ -31,32 +31,32 @@ A bit weird but that's the example.
 
 Some adverbs to keep in mind
 
-| 日本語| 英語|
+| <ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>| <ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>|
 |:-----------------------------|:-----------------|
-| 全然　「ぜんぜん」　|　never　|
-| 余り　「あまり」　|　not often　|
+| <ruby>全然<rp>(</rp><rt>ぜんぜん</rt><rp>)</rp></ruby>　　|　never　|
+| <ruby>余<rp>(</rp><rt>あま</rt><rp>)</rp></ruby>り　　|　not often　|
 | よく　|　Often　|
-| 毎日　「まいにち」　|　every day　|
-| 時々　「ときどき」 |　sometimes　|
+| <ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>　　|　every day　|
+| <ruby>時々<rp>(</rp><rt>ときどき</rt><rp>)</rp></ruby>　 |　sometimes　|
 
-> As 時々、余り、are negative, you end with ません。
+> As <ruby>時々<rp>(</rp><rt>ときどき</rt><rp>)</rp></ruby>、<ruby>余<rp>(</rp><rt>あま</rt><rp>)</rp></ruby>り、are negative, you end with ません。
 {: .prompt-info }
 
-〇　僕は全然テレビを見ません。
+〇　<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>は<ruby>全然<rp>(</rp><rt>ぜんぜん</rt><rp>)</rp></ruby>テレビを<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ません。
 > I never watch TV.
 
 Again this phrase is a bit weird...
 
-〇　武さんは余り勉強しません。
+〇　<ruby>武<rp>(</rp><rt>たけ</rt><rp>)</rp></ruby>さんは<ruby>余<rp>(</rp><rt>あま</rt><rp>)</rp></ruby>り<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しません。
 > Takeshi doesn't study very much.
 
 # Another use of は
 You can use it as a question. Simple as that.
 
-〇　晩ご飯は？
+〇　<ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby>ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>は？
 > What about dinner?
 
-〇　食べません
+〇　<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べません
 > Won't eat it.
 
 

@@ -7,25 +7,25 @@ tags: [Japanese, streak, 100 days]
 ---
 
 ## Resources used
-https://www.mykikitori.com/lesson-1
-https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/#lesson-0
-Anki reviews.
-https://easyjapanese.net/ TODAI App.
+* https://www.mykikitori.com/lesson-1
+* https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/#lesson-0
+* Anki reviews.
+* https://easyjapanese.net/ TODAI App.
 
 
 ## Learnt
 
 * Genki Lesson 1.
 
-Usage of です、は、の、か、時...
+Usage of です、は、の、か、<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>...
 
 I cheated and already know about these particles, so I'll try to sum everything here.
 
 > です is used as the verb to (be) For example
 
-* 私はホセです。
+* <ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>はホセです。
 	_I **am** Jose_
-* 時計です。
+* <ruby>時計<rp>(</rp><rt>とけい</rt><rp>)</rp></ruby>です。
   _**it's** a clock_
 
 > は marks the topic we're talking about.
@@ -35,21 +35,21 @@ To properly explain this particle we will need a whole book, because it's kind o
 > の basically means that something belongs to another
 
 * XのY means that Y belongs to X
-  僕の時計
+  <ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>の<ruby>時計<rp>(</rp><rt>とけい</rt><rp>)</rp></ruby>
   _my clock_
-* 武のお母さん
+* <ruby>武<rp>(</rp><rt>たけ</rt><rp>)</rp></ruby>のお<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さん
   _Takeshi's mom._
 
 > か basically converts the phrase to a question, added to the end of the question, can also be added in the middle to choose options
 
-* 青いか赤いか
+* <ruby>青<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>いか<ruby>赤<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>いか
   _blue or red?_
 
-> 時 is the time particle　
+> <ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby> is the time particle　
 
-* 7時です
-* １１時半です
-* １８時です。
+* 7<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です
+* １１<ruby>時半<rp>(</rp><rt>じはん</rt><rp>)</rp></ruby>です
+* １８<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。
 
 
 ## Practice Genki
@@ -71,12 +71,12 @@ I told you that I cheated and I tested the Anki deck beforehand, and it was real
 
 Some of the harder Kanji were.
 
-* 留学生「りゅうがくせい」―　International Student
-* 専攻　「せんこう」―　Major
-* 歳　「さい」―　Age, like 12 _years_ old
-* 年生　「ねんせい」―　year, like _year in school, 3rd year, 2nd year_
-* 電話番号　「でんわばんごう」―　　Phone number, I remembered the first kanji 電 because it means electricity, and many electronic things has this kanji, like 携帯電話 _mobile phone_, in this case 電話 was a mix of electricity (電) and talk, speech (話), meaning cell phone, or just phone, I was dumb enough not to recognize the kanji 番号 that was at the TOP of the book, meaning number. But oh well, now I know.
-* 時計　「とけい」―　Clock
+* <ruby>留学生<rp>(</rp><rt>りゅうがくせい</rt><rp>)</rp></ruby>　International Student
+* <ruby>専攻<rp>(</rp><rt>せんこう</rt><rp>)</rp></ruby>　　Major
+* <ruby>歳<rp>(</rp><rt>とし</rt><rp>)</rp></ruby>　　Age, like 12 _years_ old
+* <ruby>年生<rp>(</rp><rt>ねんせい</rt><rp>)</rp></ruby>　　year, like _year in school, 3rd year, 2nd year_
+* <ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby><ruby>番号<rp>(</rp><rt>ばんごう</rt><rp>)</rp></ruby>　Phone number, I remembered the first kanji <ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby> because it means electricity, and many electronic things has this kanji, like <ruby>携帯<rp>(</rp><rt>けいたい</rt><rp>)</rp></ruby><ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby> _mobile phone_, in this case <ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby> was a mix of electricity (<ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby>) and talk, speech (<ruby>話<rp>(</rp><rt>ばなし</rt><rp>)</rp></ruby>), meaning cell phone, or just phone, I was dumb enough not to recognize the kanji <ruby>番号<rp>(</rp><rt>ばんごう</rt><rp>)</rp></ruby> that was at the TOP of the book, meaning number. But oh well, now I know.
+* <ruby>時計<rp>(</rp><rt>とけい</rt><rp>)</rp></ruby>　Clock
 
 ## TODAI APP daily read
 
@@ -96,4 +96,3 @@ Since I already know a little bit of Japanese, the first lesson was easy, so I e
 I thought about adding the kanji in the news to a Anki deck, but since I don't know the real utility of these Kanji in the future I can't be sure that will be helpful.
 
 That's all folks, またね～
-

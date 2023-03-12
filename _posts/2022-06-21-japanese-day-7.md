@@ -7,135 +7,135 @@ tags: [Japanese, streak, 100 days]
 ---
 
 Helloooo,　this blog post will be full of examples of diferent kind, of the past 6 days.
-始めましょう！
+<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めましょう！
 
 The practice is in the same order as the book.
 
-# 第1課練習。●　新しいの友達。
-> メアリーさんはアメリカ人です。
+# <ruby>第<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>1<ruby>課<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby>。●　<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しいの<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>。
+> メアリーさんはアメリカ<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>です。
 
 
-〇　武さんは日本人です。
+〇　<ruby>武<rp>(</rp><rt>たけ</rt><rp>)</rp></ruby>さんは<ruby>日本人<rp>(</rp><rt>にっぽんじん</rt><rp>)</rp></ruby>です。
 
-〇　天さんは韓国人です。
+〇　<ruby>天<rp>(</rp><rt>たかし</rt><rp>)</rp></ruby>さんは<ruby>韓国<rp>(</rp><rt>かんこく</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>です。
 
-〇　ロバートさんはイギリス人です。
+〇　ロバートさんはイギリス<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>です。
 
-〇　山下先生は日本人です。
-
-
-〇　武さんは四年生です。
-
-〇　天さんは三年生です。
-
-〇　ロバートさんは四年でいです。
-
-〇　僕はホセです、ベネズエラ人です、29歳です。
-
-〇　お父さんは何歳ですか　→　*48歳いです。*
-
-〇　お父さんは先生ですか　→　*いいえ、会社員ですよ。*
-
-〇　お母さんは何歳です。→　*45歳です。*
-
-〇　お母さんは会社員ですか。　→　*いいえ、看護師です。*
-
-〇　お兄さんは会社員ですか。　→　*いいえ大学生です。*
-
-〇　お兄さんは何歳ですか　→　*23歳です。*
-
-〇　妹は大学生ですか？→　*え、高校生です。*
-
-〇　妹は何歳ですか。→　*16歳です。*
+〇　<ruby>山下<rp>(</rp><rt>やました</rt><rp>)</rp></ruby><ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>は<ruby>日本人<rp>(</rp><rt>にっぽんじん</rt><rp>)</rp></ruby>です。
 
 
-## **日本語の学生です。！！**
+〇　<ruby>武<rp>(</rp><rt>たけ</rt><rp>)</rp></ruby>さんは<ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby><ruby>年生<rp>(</rp><rt>ねんせい</rt><rp>)</rp></ruby>です。
 
-〇　僕の先生。
+〇　<ruby>天<rp>(</rp><rt>たかし</rt><rp>)</rp></ruby>さんは<ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>年生<rp>(</rp><rt>ねんせい</rt><rp>)</rp></ruby>です。
 
-〇　僕の電話番号
+〇　ロバートさんは<ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby><ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>でいです。
 
-〇　僕の名前
+〇　<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>はホセです、ベネズエラ<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>です、29<ruby>歳<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>です。
 
-〇　武さんの専攻 →　*まじで？*
+〇　お<ruby>父<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>さんは<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby><ruby>歳<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>ですか　→　*48<ruby>歳<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>いです。*
+
+〇　お<ruby>父<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>さんは<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>ですか　→　*いいえ、<ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby><ruby>員<rp>(</rp><rt>いん</rt><rp>)</rp></ruby>ですよ。*
+
+〇　お<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さんは<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby><ruby>歳<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>です。→　*45<ruby>歳<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>です。*
+
+〇　お<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さんは<ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby><ruby>員<rp>(</rp><rt>いん</rt><rp>)</rp></ruby>ですか。　→　*いいえ、<ruby>看護<rp>(</rp><rt>かんご</rt><rp>)</rp></ruby><ruby>師<rp>(</rp><rt>し</rt><rp>)</rp></ruby>です。*
+
+〇　お<ruby>兄<rp>(</rp><rt>にい</rt><rp>)</rp></ruby>さんは<ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby><ruby>員<rp>(</rp><rt>いん</rt><rp>)</rp></ruby>ですか。　→　*いいえ<ruby>大学生<rp>(</rp><rt>だいがくせい</rt><rp>)</rp></ruby>です。*
+
+〇　お<ruby>兄<rp>(</rp><rt>にい</rt><rp>)</rp></ruby>さんは<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby><ruby>歳<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>ですか　→　*23<ruby>歳<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>です。*
+
+〇　<ruby>妹<rp>(</rp><rt>いもうと</rt><rp>)</rp></ruby>は<ruby>大学生<rp>(</rp><rt>だいがくせい</rt><rp>)</rp></ruby>ですか？→　*え、<ruby>高校生<rp>(</rp><rt>こうこうせい</rt><rp>)</rp></ruby>です。*
+
+〇　<ruby>妹<rp>(</rp><rt>いもうと</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby><ruby>歳<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>ですか。→　*16<ruby>歳<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>です。*
+
+
+## **<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>の<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>です。！！**
+
+〇　<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>の<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>。
+
+〇　<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>の<ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby><ruby>番号<rp>(</rp><rt>ばんごう</rt><rp>)</rp></ruby>
+
+〇　<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>の<ruby>名前<rp>(</rp><rt>なまえ</rt><rp>)</rp></ruby>
+
+〇　<ruby>武<rp>(</rp><rt>たけ</rt><rp>)</rp></ruby>さんの<ruby>専攻<rp>(</rp><rt>せんこう</rt><rp>)</rp></ruby> →　*まじで？*
 
 > God please, forgive the book for so many mistakes, how come a book on it's 3rd edition has this many errors? even with their own only 5 names... Takashi became Takeshi 69, Sora became Sola, cause she is alone...
 {: .prompt-warning}
 
-〇　メアリーさんの友達。
+〇　メアリーさんの<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>。
 
-〇　ロンドン大学の学生。
+〇　ロンドン<ruby>大学<rp>(</rp><rt>だいがく</rt><rp>)</rp></ruby>の<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>。
 
-〇　日本語の先生。
+〇　<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>の<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>。
 
-〇　高校の先生。
+〇　<ruby>高校<rp>(</rp><rt>こうこう</rt><rp>)</rp></ruby>の<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>。
 
-## 電話番号。　
+## <ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby><ruby>番号<rp>(</rp><rt>ばんごう</rt><rp>)</rp></ruby>。　
 
-〇　電話番後ですか？→　*+XX 556-90-80-70 KEKW*
+〇　<ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby><ruby>番<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby><ruby>後<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>ですか？→　*+XX 556-90-80-70 KEKW*
 
-〇　１時です。二時です。三時です。四時です。五時です。十一時。一時半です。
+〇　１<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。<ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。<ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。<ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。<ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。<ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>。<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>時半<rp>(</rp><rt>じはん</rt><rp>)</rp></ruby>です。
 
-〇　**K01-22。**→　一時半。三時。九時。十一時。四時半。十二時。六時。
+〇　**K01-22。**→　<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>時半<rp>(</rp><rt>じはん</rt><rp>)</rp></ruby>。<ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>。<ruby>九<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>。<ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>。<ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby><ruby>時半<rp>(</rp><rt>じはん</rt><rp>)</rp></ruby>。<ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>。<ruby>六<rp>(</rp><rt>ろく</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>。
 
-## 第二課練習　●　買い物。
+## <ruby>第<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>課<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby>　●　<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>い<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>。
 
-### 炊事。すいじ 
+### <ruby>炊事<rp>(</rp><rt>すいじ</rt><rp>)</rp></ruby>。すいじ 
 
-1. 百。
-2. 二百。
-3. 三百。「さん＊びゃく」
-4. 四百。
-5. 五百。
-6. 六百。「ろっぴゃく」
-7. 七百。
-8. 八百。「はっぴゃく」
-9. 九百。
+1. <ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby>。
+2. <ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby>。
+3. <ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby>。「さん＊びゃく」
+4. <ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby>。
+5. <ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby>。
+6. <ruby>六<rp>(</rp><rt>ろく</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby>。「ろっぴゃく」
+7. <ruby>七<rp>(</rp><rt>なな</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby>。
+8. <ruby>八百<rp>(</rp><rt>やお</rt><rp>)</rp></ruby>。「はっぴゃく」
+9. <ruby>九<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby>。
 10. せん。１０００
-11. 二千。２０００
-12. 三千。「さんぜん」３０００
-13. 四千。４０００。。。
-14. 五千。
-15. 六千。
-16. 七千。
-17. 八千。「はっせん」
-18. 九千。
-19. 一万。「いちまん」１００００。一万です。『万じゃないです。』
-20. 二万。２００００
-21. 三万。３００００。。。
-22. 四万。
-23. 五万。
-24. 六万。
-25. 七万。
-26. 八万。「はちまん」８００００
-27. 九万。９００００
+11. <ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>。２０００
+12. <ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>。「さんぜん」３０００
+13. <ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>。４０００。。。
+14. <ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>。
+15. <ruby>六<rp>(</rp><rt>ろく</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>。
+16. <ruby>七<rp>(</rp><rt>なな</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>。
+17. <ruby>八<rp>(</rp><rt>はち</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>。「はっせん」
+18. <ruby>九<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>。
+19. <ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby>。「いちまん」１００００。<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby>です。『<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby>じゃないです。』
+20. <ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby>。２００００
+21. <ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby>。３００００。。。
+22. <ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby><ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby>。
+23. <ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby><ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby>。
+24. <ruby>六<rp>(</rp><rt>ろく</rt><rp>)</rp></ruby><ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby>。
+25. <ruby>七<rp>(</rp><rt>なな</rt><rp>)</rp></ruby><ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby>。
+26. <ruby>八<rp>(</rp><rt>はち</rt><rp>)</rp></ruby><ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby>。「はちまん」８００００
+27. <ruby>九<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby>。９００００
 
-### この番号をお読みください。
-1. ３４→　三十四。
-2. ６７→　六十七。
-3. ８３→　八十三。
-4. ９９→　九十九。
-5. １２５→　百二十五。
-6. ５１５→　五百十五。
-7. ６０３→　六百さん。
-8. ８０３→　八百五十。
-9. １３００→　千三百。
-10. ３４００→　三千四百。
-11. ８９００→　六千九百。
-12. ３５０００→　三十五千。
-13. ６４５００→　六四千五百。
-14. ９２３４０→　九十二千三百四十。「きゅうじゅうまんにせんさんびゃくよんじゅう。」
+### この<ruby>番号<rp>(</rp><rt>ばんごう</rt><rp>)</rp></ruby>をお<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>みください。
+1. ３４→　<ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby>。
+2. ６７→　<ruby>六<rp>(</rp><rt>ろく</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>七<rp>(</rp><rt>なな</rt><rp>)</rp></ruby>。
+3. ８３→　<ruby>八<rp>(</rp><rt>はち</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby>。
+4. ９９→　<ruby>九十九<rp>(</rp><rt>つくも</rt><rp>)</rp></ruby>。
+5. １２５→　<ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby><ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>。
+6. ５１５→　<ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>。
+7. ６０３→　<ruby>六<rp>(</rp><rt>ろく</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby>さん。
+8. ８０３→　<ruby>八<rp>(</rp><rt>はち</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby><ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby>。
+9. １３００→　<ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby>。
+10. ３４００→　<ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby>。
+11. ８９００→　<ruby>六<rp>(</rp><rt>ろく</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>九<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby>。
+12. ３５０００→　<ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>。
+13. ６４５００→　<ruby>六<rp>(</rp><rt>ろく</rt><rp>)</rp></ruby><ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby>。
+14. ９２３４０→　<ruby>九<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby><ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby>。「きゅうじゅうまんにせんさんびゃくよんじゅう。」
 > Here is something weird on Google Translator, i was doing checking if my answers were right and i found this.
-> ９２３４０→　九十二千三百四十。「きゅうじゅうにまんさんよんじゅう。」
+> ９２３４０→　<ruby>九<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby><ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby>。「きゅうじゅうにまんさんよんじゅう。」
 > 
 > Google reads the 92340 as: *きゅうまんにせんさんびゃくよんじゅう* and the Kanji as :　きゅうじゅうまんにせんさんびゃくよんじゅう。
-> 変じゃないですか？KEKW。
+> <ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>じゃないですか？KEKW。
 
 ## いくらですか？
 
-1. ペンはいくらですか？→　八十円です。
-2. ノートは四百五十円です。
-3. 傘は千円です。
-4. 新聞は千六十円です。
-5. 本は千五千円です。
-6. ぼうしは二千八百円です。
+1. ペンはいくらですか？→　<ruby>八<rp>(</rp><rt>はち</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>です。
+2. ノートは<ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby><ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>です。
+3. <ruby>傘<rp>(</rp><rt>かさ</rt><rp>)</rp></ruby>は<ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>です。
+4. <ruby>新聞<rp>(</rp><rt>しんぶん</rt><rp>)</rp></ruby>は<ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>六<rp>(</rp><rt>ろく</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>です。
+5. <ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>は<ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>です。
+6. ぼうしは<ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>八<rp>(</rp><rt>はち</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>です。

@@ -10,7 +10,7 @@ math: true
 ## Learnt
 * Genki Lesson 2
 
-買物「かいもの」
+<ruby>買物<rp>(</rp><rt>かいもの</rt><rp>)</rp></ruby>
 
 We went shopping!
 
@@ -19,7 +19,7 @@ When you go shopping you use common words like *how much*, *cheap*, *pricey*, *e
 We have simple table of these words.
 
 
-|  日本語 	|  English 	|  日本語 	|   English	|   日本語	|   English	|   日本語	|   English	|
+|  <ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby> 	|  English 	|  <ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby> 	|   English	|   <ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>	|   English	|   <ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>	|   English	|
 |-----	|-----	|---	|---	|---	|---	|---	|---	|
 | これ  |  here | この  |  this... | どの  | which  |  どこ | where  |
 |  それ |  there |  その | that...  | ここ |  here |  だれ |  who |
@@ -36,11 +36,11 @@ _これ: near me、それ: near the listener、あれ: far from both_
 ### Particle も
 Basically means too, that's it.
 
-僕は学生ですよ。
+<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>は<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>ですよ。
 
 _i'm a student._
 
-あ、僕も。
+あ、<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>も。
 
 _a!, me too._
 
@@ -48,9 +48,9 @@ Plain and simple.
 
 We need to pay attention, because sometimes we can mess up, for example
 
->ジョンはアメリカン人です。
+>ジョンはアメリカン<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>です。
 
-> あ、イタリア人も
+> あ、イタリア<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>も
 
 If John is American, and Italian, you can't say this, because it sounds like you're talking about another person being Italian, and John is Italian too.
 
@@ -73,10 +73,10 @@ If you want to ask for comfirmation you add **ね**, something.... **right?**
 
 if you want to say that you are confident on something you add **よ**, *this happened! **i tell you.***
 
-### 下さい、お願いします、どうぞ。
+### <ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>さい、お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします、どうぞ。
 
 * ください: Please, a common word to add ad the end. 
-* お願いします: Also means please, but used to request something, mostly used when ordering food or requesting something abstract, like a favour or understanding. Sounds more polite than 下さい。
+* お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします: Also means please, but used to request something, mostly used when ordering food or requesting something abstract, like a favour or understanding. Sounds more polite than <ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>さい。
 * どうぞ: You use it when someone request you something and you obligue, very polite.
 
 
@@ -101,7 +101,7 @@ Still strugling with numbers!!! Need to practice more and more.
 
 ## Random thoughts
 
-You can't negate certain words like adjetives, for example `高いですよ` can't be negated as `高いじゃないです`.
+You can't negate certain words like adjetives, for example <ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>いですよ `can't be negated as` <ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>いじゃないです.
 
 I'm going to change the mimi app for an expanded version of the TODAI app, i'll try to translate what i can from the article using Jishoo dictionary, this way I'll get better at undestanding phrases quickly, *i hope so.*
 
